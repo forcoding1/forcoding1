@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @forcoding1
-- 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...Python and JS
-- 💞️ I’m looking to collaborate on ...Anything
+- 👀 I’m interested in ...Web Development,Game Development and ML
+- 🌱 I’m currently learning ...Game Dev
+- 💞️ I’m looking to collaborate on ...Game building and development
 - 📫 How to reach me ...my instagram - a.neerajsk
 
 <!---
