@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @forcoding1
+- 👋 Hi, I’m Neeraj
 - 👀 I’m interested in ...Web Development,Game Development and ML
-- 🌱 I’m currently learning ...Game Dev
-- 💞️ I’m looking to collaborate on ...Game building and development
+- 🌱 I’m currently learning ...Machine learning
+- 💞️ I’m looking to collaborate on ...ML Projects
 - 📫 How to reach me ...my instagram - a.neerajsk
 
 <!---
