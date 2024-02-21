@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Neeraj Sai Kumar Addetla</h1>
 <h3 align="center">A passionate CS undergrad from India</h3>
 
-- 🔭 I’m currently working on **NLP**
+- 🔭 I’m currently working on **ML using google cloud**
 
-- 🌱 I’m currently learning **Deep Learning using tensorflow and parallel programming with java**
+- 🌱 I’m currently learning **Deep Learning using tensorflow and ML**
 
 - 👯 I’m looking to collaborate on **Deep Learning projects**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Tensorflow, Machine Learning, Deep Learning, Transformers**
 
-- 📫 How to reach me **escanor.dess@gmail.com**
+- 📫 How to reach me **a.neerajsk@gmail.com**
 
 - ⚡ Fun fact **I love anime**
 
