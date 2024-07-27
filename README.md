@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neeraj Sai Kumar Addetla</h1>
 <h3 align="center">A passionate CS undergrad from India</h3>
 
-- 🔭 I’m currently working on **ML using google cloud**
+- 🔭 I’m currently working on **LLMs**
 
 - 🌱 I’m currently learning **Deep Learning using tensorflow and ML**
 
